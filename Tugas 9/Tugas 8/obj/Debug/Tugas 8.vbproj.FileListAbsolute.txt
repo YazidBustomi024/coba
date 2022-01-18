@@ -1,0 +1,14 @@
+D:\Data Visual Studio\Bustomi\Tugas 8\Tugas 8\bin\Debug\Tugas 8.exe.config
+D:\Data Visual Studio\Bustomi\Tugas 8\Tugas 8\bin\Debug\Tugas 8.exe
+D:\Data Visual Studio\Bustomi\Tugas 8\Tugas 8\bin\Debug\Tugas 8.pdb
+D:\Data Visual Studio\Bustomi\Tugas 8\Tugas 8\bin\Debug\Tugas 8.xml
+D:\Data Visual Studio\Bustomi\Tugas 8\Tugas 8\obj\Debug\Tugas_8.Form1.resources
+D:\Data Visual Studio\Bustomi\Tugas 8\Tugas 8\obj\Debug\Tugas_8.Resources.resources
+D:\Data Visual Studio\Bustomi\Tugas 8\Tugas 8\obj\Debug\Tugas 8.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\Tugas 8\Tugas 8\obj\Debug\Tugas 8.exe
+D:\Data Visual Studio\Bustomi\Tugas 8\Tugas 8\obj\Debug\Tugas 8.xml
+D:\Data Visual Studio\Bustomi\Tugas 8\Tugas 8\obj\Debug\Tugas 8.pdb
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 9\Tugas 8\bin\Debug\Tugas 8.exe.config
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 9\Tugas 8\obj\Debug\Tugas 8.exe
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 9\Tugas 8\obj\Debug\Tugas 8.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 9\Tugas 8\obj\Debug\Tugas 8.pdb

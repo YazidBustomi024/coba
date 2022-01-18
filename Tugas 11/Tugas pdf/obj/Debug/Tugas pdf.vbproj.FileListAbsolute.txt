@@ -1,0 +1,70 @@
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\bin\Debug\Tugas pdf.exe.config
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\bin\Debug\Tugas pdf.exe
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\bin\Debug\Tugas pdf.pdb
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\bin\Debug\Tugas pdf.xml
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\bin\Debug\PdfSharp.Charting.dll
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\bin\Debug\PdfSharp.dll
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\bin\Debug\PdfSharp.xml
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\bin\Debug\PdfSharp.Charting.xml
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\bin\Debug\de\PdfSharp.resources.dll
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\obj\Debug\Tugas pdf.vbprojAssemblyReference.cache
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\obj\Debug\Tugas_pdf.Form1.resources
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\obj\Debug\Tugas_pdf.Resources.resources
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\obj\Debug\Tugas pdf.vbproj.GenerateResource.cache
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\obj\Debug\Tugas pdf.vbproj.CoreCompileInputs.cache
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\obj\Debug\Tugas pdf.vbproj.CopyComplete
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\obj\Debug\Tugas pdf.exe
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\obj\Debug\Tugas pdf.xml
+D:\Data Visual Studio\Bustomi\Tugas pdf\Tugas pdf\obj\Debug\Tugas pdf.pdb
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\bin\Debug\Tugas pdf.exe.config
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\obj\Debug\Tugas pdf.exe
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\obj\Debug\Tugas pdf.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\obj\Debug\Tugas pdf.pdb
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\bin\Debug\Tugas pdf.exe
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\bin\Debug\Tugas pdf.pdb
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\bin\Debug\Tugas pdf.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\bin\Debug\PdfSharp.Charting.dll
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\bin\Debug\PdfSharp.dll
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\bin\Debug\PdfSharp.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\bin\Debug\PdfSharp.Charting.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\bin\Debug\de\PdfSharp.resources.dll
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\obj\Debug\Tugas pdf.vbprojResolveAssemblyReference.cache
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\obj\Debug\Tugas_pdf.Form1.resources
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\obj\Debug\Tugas_pdf.Resources.resources
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10\Tugas pdf\obj\Debug\Tugas pdf.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\bin\Debug\Tugas pdf.exe.config
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\obj\Debug\Tugas pdf.exe
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\obj\Debug\Tugas pdf.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\obj\Debug\Tugas pdf.pdb
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\bin\Debug\Tugas pdf.exe
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\bin\Debug\Tugas pdf.pdb
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\bin\Debug\Tugas pdf.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\bin\Debug\PdfSharp.Charting.dll
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\bin\Debug\PdfSharp.dll
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\bin\Debug\PdfSharp.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\bin\Debug\PdfSharp.Charting.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\bin\Debug\de\PdfSharp.resources.dll
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\obj\Debug\Tugas pdf.vbprojResolveAssemblyReference.cache
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\obj\Debug\Tugas_pdf.Form1.resources
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\obj\Debug\Tugas_pdf.Resources.resources
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 10 - Copy\Tugas pdf\obj\Debug\Tugas pdf.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\bin\Debug\Tugas pdf.exe.config
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\obj\Debug\Tugas pdf.exe
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\obj\Debug\Tugas pdf.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\obj\Debug\Tugas pdf.pdb
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\bin\Debug\Tugas pdf.exe
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\bin\Debug\Tugas pdf.pdb
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\bin\Debug\Tugas pdf.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\bin\Debug\PdfSharp.Charting.dll
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\bin\Debug\PdfSharp.dll
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\bin\Debug\PdfSharp.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\bin\Debug\PdfSharp.Charting.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\bin\Debug\de\PdfSharp.resources.dll
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\obj\Debug\Tugas pdf.vbprojResolveAssemblyReference.cache
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\obj\Debug\Tugas_pdf.Form1.resources
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\obj\Debug\Tugas_pdf.Resources.resources
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 11\Tugas pdf\obj\Debug\Tugas pdf.vbproj.GenerateResource.Cache

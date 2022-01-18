@@ -1,0 +1,14 @@
+D:\Data Visual Studio\Bustomi\Tugas Uas\Tugas Uas\bin\Debug\Tugas Uas.exe.config
+D:\Data Visual Studio\Bustomi\Tugas Uas\Tugas Uas\bin\Debug\Tugas Uas.exe
+D:\Data Visual Studio\Bustomi\Tugas Uas\Tugas Uas\bin\Debug\Tugas Uas.pdb
+D:\Data Visual Studio\Bustomi\Tugas Uas\Tugas Uas\bin\Debug\Tugas Uas.xml
+D:\Data Visual Studio\Bustomi\Tugas Uas\Tugas Uas\obj\Debug\Tugas_Uas.Form1.resources
+D:\Data Visual Studio\Bustomi\Tugas Uas\Tugas Uas\obj\Debug\Tugas_Uas.Resources.resources
+D:\Data Visual Studio\Bustomi\Tugas Uas\Tugas Uas\obj\Debug\Tugas Uas.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\Tugas Uas\Tugas Uas\obj\Debug\Tugas Uas.exe
+D:\Data Visual Studio\Bustomi\Tugas Uas\Tugas Uas\obj\Debug\Tugas Uas.xml
+D:\Data Visual Studio\Bustomi\Tugas Uas\Tugas Uas\obj\Debug\Tugas Uas.pdb
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 8\Tugas Uas\bin\Debug\Tugas Uas.exe.config
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 8\Tugas Uas\obj\Debug\Tugas Uas.exe
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 8\Tugas Uas\obj\Debug\Tugas Uas.xml
+D:\Data Visual Studio\Kuliah\UAS SEM 3\Tugas 8\Tugas Uas\obj\Debug\Tugas Uas.pdb
